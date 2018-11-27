@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "254370685868",
+    "firebase_url": "https://wycregistration-1493373425615.firebaseio.com",
+    "project_id": "wycregistration-1493373425615",
+    "storage_bucket": "wycregistration-1493373425615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254370685868:android:7390abcb0d02b948",
+        "android_client_info": {
+          "package_name": "com.wyc.ccs81.myprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254370685868-v3r00d60ume9iuphecu2bgargtem9d5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCepDbMrBZxloI5MjjEH0hWqQ2s9Bnjvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

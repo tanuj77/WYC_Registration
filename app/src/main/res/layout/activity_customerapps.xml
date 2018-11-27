@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/CornflowerBlue"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/White"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+
+        <Button
+            android:id="@+id/btn_customerbusinessreport"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Business Report "
+            android:background="@drawable/buttonshape"
+            android:layout_marginTop="20dp"
+            android:textColor="#FAF5FA"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/btn_customer_statement"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Customer statement "
+            android:background="@drawable/buttonshape"
+            android:layout_marginTop="20dp"
+            android:textColor="#FAF5FA"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/ledger"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Customer Ledger "
+            android:background="@drawable/buttonshape"
+            android:layout_marginTop="20dp"
+            android:textColor="#FAF5FA"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/partybalance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Customer Balance "
+            android:background="@drawable/buttonshape"
+            android:layout_marginTop="20dp"
+            android:textColor="#FAF5FA"
+            android:textSize="15sp" />
+
+
+        <Button
+            android:id="@+id/feedbackform"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Feedback Form "
+            android:background="@drawable/buttonshape"
+            android:layout_marginTop="20dp"
+            android:textColor="#FAF5FA"
+            android:textSize="15sp" />
+
+
+
+
+        <!--<Button-->
+        <!--android:id="@+id/statuscheck"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Report Status  "-->
+        <!--android:background="@drawable/buttonshape"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:textColor="#FAF5FA"-->
+        <!--android:textSize="15sp" />-->
+
+        <Button
+            android:id="@+id/moption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" MOption "
+            android:background="@drawable/buttonshape"
+            android:layout_marginTop="20dp"
+            android:textColor="#FAF5FA"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/automail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Passenger Mail "
+            android:background="@drawable/buttonshape"
+            android:layout_marginTop="20dp"
+            android:textColor="#FAF5FA"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/btn_receipt_entry"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Receipt Entry "
+            android:background="@drawable/buttonshape"
+            android:layout_marginTop="20dp"
+            android:textColor="#FAF5FA"
+            android:textSize="15sp" />
+
+
+    </LinearLayout>
+</RelativeLayout>

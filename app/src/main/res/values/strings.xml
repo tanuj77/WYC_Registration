@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Registration</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="phone">Phone</string>
+    <string name="computer">Computer</string>
+    <string name="gamepad">Gamepad</string>
+
+    <string name="camera">Camera</string>
+    <string name="video">Video</string>
+
+    <string name="email">EMail</string>
+
+    <string name="facebook">Facebook</string>
+    <string name="maps">Maps</string>
+    <string name="bankaccount">Bank Accounts</string>
+    <string name="contactus">Contact Us</string>
+    <string name="reachus">Reach Us @:-</string>
+    <string name="reachus2">1011,Tower B4,Spaze Itech Park Sector 49, Sohna Road, Gurgoan, Haryana.</string>
+    <string name="callus">Call Us @:-</string>
+    <string name="callus2">0124-4518888 OR +91-9810307975</string>
+    <string name="emailus">Email Us@:-</string>
+    <string name="emailus2">ccs@winyatra.com  OR sales@winyatra.com</string>
+
+
+    <string name="FCM_PREF">com.wyc.ccs81.myprovider.fcm_pref</string>
+    <string name="FCM_TOKEN">com.wyc.ccs81.myprovider.fcm_token</string>
+</resources>

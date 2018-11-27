@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/facebook"
+        android:title="@string/facebook"
+        android:icon="@drawable/phone"
+        android:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/maps"
+        android:title="@string/maps"
+        android:icon="@drawable/computer"
+        android:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/bank"
+        android:title="@string/bankaccount"
+        android:icon="@drawable/gamepad"
+        android:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/contact"
+        android:title="@string/contactus"
+        android:icon="@drawable/cameraflat"
+        android:showAsAction="ifRoom|withText"
+        />
+
+</menu>
